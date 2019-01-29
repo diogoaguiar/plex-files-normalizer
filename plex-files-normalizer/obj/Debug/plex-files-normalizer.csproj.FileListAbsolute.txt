@@ -1,0 +1,14 @@
+C:\Users\diogo\source\plex-files-normalizer\plex-files-normalizer\bin\Debug\plex-files-normalizer.exe.config
+C:\Users\diogo\source\plex-files-normalizer\plex-files-normalizer\bin\Debug\plex-files-normalizer.exe
+C:\Users\diogo\source\plex-files-normalizer\plex-files-normalizer\bin\Debug\plex-files-normalizer.pdb
+C:\Users\diogo\source\plex-files-normalizer\plex-files-normalizer\obj\Debug\plex-files-normalizer.csprojAssemblyReference.cache
+C:\Users\diogo\source\plex-files-normalizer\plex-files-normalizer\obj\Debug\plex_files_normalizer.FormMain.resources
+C:\Users\diogo\source\plex-files-normalizer\plex-files-normalizer\obj\Debug\plex_files_normalizer.Properties.Resources.resources
+C:\Users\diogo\source\plex-files-normalizer\plex-files-normalizer\obj\Debug\plex-files-normalizer.csproj.GenerateResource.cache
+C:\Users\diogo\source\plex-files-normalizer\plex-files-normalizer\obj\Debug\plex-files-normalizer.csproj.CoreCompileInputs.cache
+C:\Users\diogo\source\plex-files-normalizer\plex-files-normalizer\obj\Debug\plex-files-normalizer.exe
+C:\Users\diogo\source\plex-files-normalizer\plex-files-normalizer\obj\Debug\plex-files-normalizer.pdb
+C:\Users\diogo\source\plex-files-normalizer\plex-files-normalizer\bin\Debug\plex-files-normalizer.exe.manifest
+C:\Users\diogo\source\plex-files-normalizer\plex-files-normalizer\bin\Debug\plex-files-normalizer.application
+C:\Users\diogo\source\plex-files-normalizer\plex-files-normalizer\obj\Debug\plex-files-normalizer.exe.manifest
+C:\Users\diogo\source\plex-files-normalizer\plex-files-normalizer\obj\Debug\plex-files-normalizer.application
