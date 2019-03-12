@@ -7,7 +7,7 @@
     <ProjectGuid>{A06239E4-244C-4BD6-9EFE-007F9B6FE4BB}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <RootNamespace>plex_files_normalizer</RootNamespace>
-    <AssemblyName>plex-files-normalizer</AssemblyName>
+    <AssemblyName>Plex Files Normalizer</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

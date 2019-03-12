@@ -145,6 +145,7 @@
             this.MaximumSize = new System.Drawing.Size(455, 163);
             this.MinimumSize = new System.Drawing.Size(455, 163);
             this.Name = "FormMain";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Plex Files Normalizer";
             this.ResumeLayout(false);
             this.PerformLayout();
